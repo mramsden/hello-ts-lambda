@@ -6,7 +6,7 @@ import * as rimraf from 'rimraf';
 import * as ts from 'typescript';
 
 const paths = {
-    config: path.join(__dirname, '../tsconfig.json'),
+    config: path.join(__dirname, '../src/tsconfig.json'),
     dist: path.join(__dirname, '../dist'),
 };
 
