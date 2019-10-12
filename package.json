@@ -10,9 +10,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/archiver": "^3.0.0",
     "@types/aws-lambda": "^8.10.33",
     "@types/node": "^12.7.12",
     "@types/rimraf": "^2.0.2",
+    "archiver": "^3.1.1",
     "rimraf": "^3.0.0",
     "typescript": "^3.6.4"
   }
